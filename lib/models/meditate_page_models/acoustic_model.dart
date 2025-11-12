@@ -1,0 +1,12 @@
+class AcousticInfoPage {
+  final String title;
+  final String coverImg;
+  final String music;
+  final String authorName;
+  AcousticInfoPage({
+    required this.title,
+    required this.coverImg,
+    required this.music,
+    required this.authorName,
+  });
+}
